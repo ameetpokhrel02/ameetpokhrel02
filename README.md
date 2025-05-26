@@ -1,25 +1,36 @@
-![MasterHead](https://github.com/user-attachments/assets/2c4854d7-41ac-49c6-a03a-751f0341d43e)
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c4854d7-41ac-49c6-a03a-751f0341d43e" alt="MasterHead" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Amit Pokhrel</h1>
 <h3 align="center">A passionate Frontend Developer | UI/UX Designer | IoT & Cloud Computing Enthusiast from Nepal.</h3>
 
-<p align="center">
-  <a href="https://github.com/your-profile">
-    <img src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif" alt="Your GitHub Profile" width="200">
+<!-- GitHub typing GIF on right and About Me on left -->
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 I’m currently working on <strong>Ride_Now Mobile App</strong></li>
+        <li>🌱 I’m currently learning <strong>IOT & Cloud | Python | Django | Flutter | React | Servlet | etc.</strong></li>
+        <li>💬 Ask me about <strong>IOT | Python | JAVA</strong></li>
+        <li>📫 How to reach me: <a href="mailto:pokhrelameet12@gmail.com">pokhrelameet12@gmail.com</a></li>
+        <li>⚡ Fun fact: <strong>I am Funny</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif" width="250" alt="coding gif" />
+    </td>
+  </tr>
+</table>
+
+<!-- Twitter Button -->
+<p align="left">
+  <a href="https://twitter.com/pokhrelameet2" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/pokhrelameet2?logo=twitter&style=for-the-badge" alt="pokhrelameet2" />
   </a>
 </p>
 
-
-<p align="left"> <a href="https://twitter.com/pokhrelameet2" target="blank"><img src="https://img.shields.io/twitter/follow/pokhrelameet2?logo=twitter&style=for-the-badge" alt="pokhrelameet2" /></a> </p>
-
-- 🔭 I’m currently working on **Ride_Now Mobile App**
-
-- 🌱 I’m currently learning **IOT & Cloud| Python| Django| Flutter| React| Servlet| etc.**
-
-- 💬 Ask me about **IOT| Python| JAVA|**
-
-- 📫 How to reach me **pokhrelameet12@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
