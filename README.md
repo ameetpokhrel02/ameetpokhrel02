@@ -1,9 +1,13 @@
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
 <h1 align="center">Hi 👋, I'm Amit Pokhrel</h1>
-<h3 align="center">A passionate Frontend Developer |UI|UX Designer| IOT & Cloud Computing from Nepal.</h3>
-<a href="https://github.com/your-profile">
-    <img src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif" alt="Your GitHub Profile" style="float: left;">
-</a>
+<h3 align="center">A passionate Frontend Developer | UI/UX Designer | IoT & Cloud Computing Enthusiast from Nepal.</h3>
+
+<p align="right">
+  <a href="https://github.com/your-profile">
+    <img src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif" alt="Your GitHub Profile" width="200">
+  </a>
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/pokhrelameet2" target="blank"><img src="https://img.shields.io/twitter/follow/pokhrelameet2?logo=twitter&style=for-the-badge" alt="pokhrelameet2" /></a> </p>
