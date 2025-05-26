@@ -1,10 +1,8 @@
 ![MasterHead](https://github.com/user-attachments/assets/2c4854d7-41ac-49c6-a03a-751f0341d43e)
-
-
 <h1 align="center">Hi 👋, I'm Amit Pokhrel</h1>
 <h3 align="center">A passionate Frontend Developer | UI/UX Designer | IoT & Cloud Computing Enthusiast from Nepal.</h3>
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/your-profile">
     <img src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif" alt="Your GitHub Profile" width="200">
   </a>
