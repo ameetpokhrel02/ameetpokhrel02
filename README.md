@@ -1,5 +1,6 @@
 <!-- Banner -->
 <p align="center">
+  <img src=""E:\my poerty@2x.jpg""/>
   <img src="https://github.com/user-attachments/assets/2c4854d7-41ac-49c6-a03a-751f0341d43e" alt="MasterHead" />
 </p>
 
