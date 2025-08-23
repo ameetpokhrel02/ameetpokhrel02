@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer | React, Typescript
+Frontend Developer | React, Typescript  | AI
 
 
 ## 🌐 Socials:
