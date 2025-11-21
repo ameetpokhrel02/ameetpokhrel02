@@ -11,9 +11,3 @@ Frontend Developer | React, Typescript  |
 ![](https://github-readme-stats.vercel.app/api?username=ameetpokhrel02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ameetpokhrel02&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
-
-### 🔝 Top Contributed Repo
-[![](https://visitcount.itsvg.in/api?id=ameetpokhrel02&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
