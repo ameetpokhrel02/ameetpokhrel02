@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer |React | TS | TSX  | 
+Frontend Developer |React | TS | TSX  | AI | Clous AWS
 
 
 ## 🌐 Socials:
